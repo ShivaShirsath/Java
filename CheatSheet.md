@@ -18,4 +18,28 @@ Primitive Types:
     + 0b01101,
   + LONG:
     + 1234567890123L
-  + CHAR EXAMPLES: `a`, `\n`, `\t`, `\’`, `\\`, `\”`
+  + CHAR:
+    + `a`, 
+    + `\n`, 
+    + `\t`, 
+    + `\’`, 
+    + `\\`, 
+    + `\”`
+
+Primitive Operators
+  + Assignment Operator:
+    + `=` (ex: int a=5,b=3; )
+  + Binary Operators (two arguments):
+    + `+` `-` `*` `/` `%`
+  + Unary Operators:
+    + `+`, `-`, `++`, `--`
+  + Boolean Not Operator (Unary):
+    + `!`
+  + Boolean Binary:
+    + `==`, `!=`, `>`, `>=`, `<`, `<=`
+  + Boolean Binary Only:
+    + `&&`, `||`
+  + Bitwise Operators:
+    + `~`, `&`, `^`, `|`, `<<`, `>>`, `>>>`
+  + Ternary Operator:
+    + `boolean ? trueValue : falseValue`
