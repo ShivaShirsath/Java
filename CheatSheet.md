@@ -37,3 +37,11 @@ Primitive Operators
     + `~` `&` `^` `|` `<<` `>>` `>>>`
   + Ternary:
     + `boolean ? trueValue : falseValue`
+
+Casting, Conversion:  
+ + (type)value
+ + type variable = WrapperClass . parseType( value   ) ;
+ + int    i      = Integer      . parseInt ( hex, 16 ) ; // from Hex
+ + String hex    = Integer      . toString ( i,   16 ) ; // to   Hex
+ + String str    = `""+ value` | `toString()`
+ //Previous lines work w/ binary, other bases
