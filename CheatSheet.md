@@ -23,18 +23,16 @@ Primitive Types:
 
 Primitive Operators
   + Assignment Operator:
-    + `=` (ex: int a=5,b=3; )
-  + Binary Operators (two arguments):
-    + `+` `-` `*` `/` `%`
+    + variable `=` value
   + Unary Operators:
     + `+` `-` `++` `--`
-  + Boolean Not Operator (Unary):
-    + `!`
-  + Boolean Binary:
+  + Binary Operators:
+    + `+` `-` `*` `/` `%`
+  + Comparision:
     + `==` `!=` `>` `>=` `<` `<=`
-  + Boolean Binary Only:
-    + `&&` `||`
-  + Bitwise Operators:
+  + Binary:
+    + `!` `&&` `||`
+  + Bitwise:
     + `~` `&` `^` `|` `<<` `>>` `>>>`
-  + Ternary Operator:
+  + Ternary:
     + `boolean ? trueValue : falseValue`
