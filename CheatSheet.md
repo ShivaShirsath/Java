@@ -23,13 +23,15 @@ Primitive Types:
 
 Primitive Operators
   + Assignment Operator:
-    + variable `=` value
+    + variable operator value
+      + `=` `+=` `-=` `*=` `/=` `%=`
+      + `&=` `^=` `|=` `<<=` `>>=` `>>>=`
   + Unary Operators:
     + `+` `-` `++` `--`
   + Binary Operators:
     + `+` `-` `*` `/` `%`
   + Comparision:
-    + `==` `!=` `>` `>=` `<` `<=`
+    + `==` `!=` `>` `>=` `<` `<=` `instanceof`
   + Binary:
     + `!` `&&` `||`
   + Bitwise:
