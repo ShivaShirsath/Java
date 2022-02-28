@@ -19,12 +19,7 @@ Primitive Types:
   + LONG:
     + 1234567890123L
   + CHAR:
-    + `a`, 
-    + `\n`, 
-    + `\t`, 
-    + `\’`, 
-    + `\\`, 
-    + `\”`
+    + `a` `\n` `\t` `\\` `\'` `\”`
 
 Primitive Operators
   + Assignment Operator:
@@ -32,14 +27,14 @@ Primitive Operators
   + Binary Operators (two arguments):
     + `+` `-` `*` `/` `%`
   + Unary Operators:
-    + `+`, `-`, `++`, `--`
+    + `+` `-` `++` `--`
   + Boolean Not Operator (Unary):
     + `!`
   + Boolean Binary:
-    + `==`, `!=`, `>`, `>=`, `<`, `<=`
+    + `==` `!=` `>` `>=` `<` `<=`
   + Boolean Binary Only:
-    + `&&`, `||`
+    + `&&` `||`
   + Bitwise Operators:
-    + `~`, `&`, `^`, `|`, `<<`, `>>`, `>>>`
+    + `~` `&` `^` `|` `<<` `>>` `>>>`
   + Ternary Operator:
     + `boolean ? trueValue : falseValue`
