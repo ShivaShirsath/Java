@@ -22,8 +22,7 @@ Primitive Types:
     + `a` `\n` `\t` `\\` `\'` `\”`
 
 Primitive Operators
-  + Assignment Operator:
-    + variable operator value
+  + Assignment Operator: [variable] [operator] [value]
       + `=` `+=` `-=` `*=` `/=` `%=`
       + `&=` `^=` `|=` `<<=` `>>=` `>>>=`
   + Unary Operators:
