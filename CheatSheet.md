@@ -13,16 +13,9 @@ Primitive Types:
     + `boolean` (1bit),
     + `char` (Unicode)
   + HEX:
-    + 0x1AF,
+    + 0x0AF,
   + BINARY:
-    + 0b00101,
+    + 0b01101,
   + LONG:
-    + 8888888888888L
-        
-  + CHAR EXAMPLES: 
-     `a`,
-     `\n`,
-     `\t`,
-     `\’`,
-     `\\`,
-     `\”`
+    + 1234567890123L
+  + CHAR EXAMPLES: `a`, `\n`, `\t`, `\’`, `\\`, `\”`
