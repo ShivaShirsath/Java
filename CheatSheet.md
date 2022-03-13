@@ -40,7 +40,11 @@ Primitive Operators
 
 Casting, Conversion:  
  + `( type ) value`
- + `type variable = WrapperClass . parseType( value   ) ;`
- + `int    i      = Integer      . parseInt ( hex, 16 ) ; // from Hex`
- + `String hex    = Integer      . toString ( i,   16 ) ; // to   Hex`
- + `String str    =` `""+ value` | `toString()`
+ + `type variable = WrapperClass . parseType( value   ) ;` // replace Wrapper with type
+ + `int    i      = Integer      . parseInt ( hex, 16 ) ;` // from Hex
+ + `String hex    = Integer      . toString ( i,   16 ) ;` // to   Hex
+ + `String str    =` `""+ value` | `value.toString() ;`
+
+Input, Output ( Scanner & Printer )
++ `String str = new Scanner(` `System.in` `).next() ;`
++ `System.out` `.print(str) ;`
